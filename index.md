@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<h1 style="margin-top:-0.5em;margin-bottom:1em;">Welcome on my webpage !</h1>
+<h1 style="margin-top:-0.5em;margin-bottom:1em;">Bienvenue sur ma page personnelle</h1>
 
 ![placeholder](/public/img/cuba.jpg)
 
